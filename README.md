@@ -8,7 +8,7 @@
 
 ## Summary of Insights and Recommendations
 Regions
-* High performing region: USA
+* High-performing region: USA
 * Regions to target for user acquisition: Canada, Puerto Rico
 * Regions to consider market and user research: SEA, India
 
@@ -17,7 +17,7 @@ Devices
 * Value in targeting Google Chrome browser users
 
 Engagements
-* Review Youtube brand store page and products
+* Review the YouTube brand store page and products
 * Improve conversion rate through optimized engagement on home and store pages
 	* More engaging content, improved site navigation, calls to action, and optimized conversion pathways
 * Employ marketing strategies to drive repeat visits (retargeting ads)
@@ -31,4 +31,7 @@ Site Performance
 
 Conversion Funnel
 * Improve product descriptions, calls to action, and user reviews on product pages
-* Optimize checkout process to reduce friction
+* Optimize the checkout process to reduce friction
+
+## Tableau Dashboard
+A tableau dashboard was created for this dataset at [Web Store Performance Dashboard](https://public.tableau.com/app/profile/nathan.gootee/viz/google_merch/overview)
